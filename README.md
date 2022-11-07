@@ -40,4 +40,4 @@ We had initially planned to deploy the contract to Polygon Mumbai Testnet. Howev
 You can verify at: https://mumbai.polygonscan.com/
 
 ## Tech Stack used:
-HTML, CSS, Javascript, Solidity, Hardhat, EtherJS, Polygon Mumbai, Repl.it, Ethereum, Goerli Testnet
+HTML, CSS, Javascript, Solidity, Hardhat, EtherJS, Polygon Mumbai, Repl.it, ,Goerli Testnet,Ethereum.
