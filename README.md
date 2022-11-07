@@ -2,6 +2,12 @@
 
 ### [Check out BlockXRentals.com here](https://varun-doshi.github.io/BlockXRentals_UrHackathon/)
 
+#### The team consists of:
+  * [Varun Doshi](https://github.com/varun-doshi)
+
+
+  * [Suchita Malick](https://github.com/CyberNaut-bot)
+
 #### Final Contract deployed to Goerli Testnet: 0x10c3F14c6635f8F45EeC0c87F0666B22A359d074
 #### You can verify at: https://goerli.etherscan.io/
 
